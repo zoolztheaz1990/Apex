@@ -307,7 +307,7 @@ sts="${Error}"
 fi
 TIMES="10"
 CHATID="6191040634"
-KEY="6519517396:AAHH4-UT78EJri-NeIy-KqAi4fZSQrlzcQs"
+KEY="6597719735:AAHk4rVwhXypqQpNZEjOLCkEAkLaj4WWCJ0"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
